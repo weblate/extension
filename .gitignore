@@ -8,3 +8,11 @@ app/extension-scripts/api/playground/
 *.rest
 .DS_Store
 .vscode
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
